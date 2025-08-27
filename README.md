@@ -1,2 +1,2 @@
 # Unlock-Git-Achivements
-all my fit hub achivements
+all my git hub achivements
